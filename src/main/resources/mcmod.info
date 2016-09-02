@@ -1,0 +1,16 @@
+[
+{
+  "modid": "FamiliarAspects",
+  "name": "Familiar Aspects",
+  "description": "A mod focused on allowing the creation of custom minions and avatars in a balanced and fair way.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Sir Angel the Logical"],
+  "credits": "CarryNCare Inc.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
